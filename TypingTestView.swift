@@ -6,7 +6,27 @@ struct TypingTestView: View {
         "A journey of a thousand miles begins with a single step.",
         "To be or not to be, that is the question.",
         "All that glitters is not gold.",
-        "A picture is worth a thousand words."
+        "A picture is worth a thousand words.",
+        "I run four miles every morning.",
+        "There've been some big changes made around here recently.",
+        "I am afraid I have to go.",
+        "Tulips grow every year.",
+        "Neil Patrick Harris is one of the few famous people who can actually sing.",
+        "He worked in a city hospital.",
+        "She is my elder sister.",
+        "He is my grandfather.",
+        "You‘d better wear a light jacket.",
+        "Your guess is as good as mine.",
+        "She’s lying or at least not telling the entire truth.",
+        "She was constantly looking for new jobs.",
+        "It was so cold that no one wanted to go outside.",
+        "You are, hands down, the biggest idiot I've ever met.",
+        "She was a firm believer in the power of McDonald's chicken nuggets to fix all problems.",
+        "This dress is too big for me.",
+        "I want the stability of a full-time job, but I'm not interested in the rigidity of working nine to five.",
+        "She wanted a week or two off of work, just to try to reduce her stress level.",
+        "We are going to the hospital tonight.",
+        "Is he yours?"
     ]
     @State private var sampleText = "The quick brown fox jumps over the lazy dog."
     @State private var userInput = ""
