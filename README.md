@@ -12,8 +12,8 @@ This SwiftUI-based Typing Test App allows users to test and improve their typing
 
 ## Screenshots
 
-![Typing Test](path/to/screenshot1.png)
-![Results](path/to/screenshot2.png)
+![Typing Test](https://github.com/speedyfriend433/Typer-Swift/assets/171631703/6a605e48-bee1-47eb-bd4a-2cae15825dcf)
+![Results](https://github.com/speedyfriend433/Typer-Swift/assets/171631703/c2ab88fa-af35-4dc3-8da5-91989ca5423c)
 
 ## Installation
 
